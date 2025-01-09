@@ -17,11 +17,15 @@ DOMAIN-SUFFIX,shodan.io
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
+# IP段匹配
+IP-CIDR,47.243.10.220/32,no-resolve
+IP-CIDR,47.89.229.8/32,no-resolve
+IP-CIDR,47.242.167.46/32,no-resolve
+IP-CIDR,8.213.157.161/32,no-resolve
+
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
-
-# IP段匹配
 IP-CIDR,202.96.128.86/32,no-resolve
 IP-CIDR,202.96.134.33/32,no-resolve
 IP-CIDR,202.96.134.133/32,no-resolve
