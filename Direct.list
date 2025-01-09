@@ -24,10 +24,10 @@ DOMAIN-SUFFIX,3322.net
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,47.243.10.220/32,no-resolve
-IP-CIDR,47.89.229.8/32,no-resolve
-IP-CIDR,47.242.167.46/32,no-resolve
-IP-CIDR,8.213.157.161/32,no-resolve
+# IP-CIDR,47.243.10.220/32,no-resolve
+# IP-CIDR,47.89.229.8/32,no-resolve
+# IP-CIDR,47.242.167.46/32,no-resolve
+# IP-CIDR,8.213.157.161/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
