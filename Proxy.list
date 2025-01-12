@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,myip.ms
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,ip.sb
 
 
 # 域名关键字匹配
