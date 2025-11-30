@@ -9,8 +9,6 @@ DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,ghxi.com
-DOMAIN-SUFFIX,365gia.com
-DOMAIN-SUFFIX,366gia.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,shodan.io
 DOMAIN-SUFFIX,ipip.net
@@ -25,6 +23,10 @@ DOMAIN-SUFFIX,rrdynb.com
 DOMAIN-SUFFIX,imgki.com
 DOMAIN-SUFFIX,sixyin.com
 DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,365gia.com
+DOMAIN-SUFFIX,366gia.com
+DOMAIN-SUFFIX,1236888.xyz
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
