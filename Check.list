@@ -17,5 +17,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,auth.openai.com
+
 
 
