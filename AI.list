@@ -5,17 +5,16 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,lambda.chat
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,truthsocial.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com,
 DOMAIN-SUFFIX,claude.com,
+DOMAIN-SUFFIX,claude.ai,
+DOMAIN-SUFFIX,lambda.chat,
+DOMAIN-SUFFIX,perplexity.ai,
+DOMAIN-SUFFIX,chatgpt.com,
+DOMAIN-SUFFIX,openai.com,
+DOMAIN-SUFFIX,meta.ai,
+DOMAIN-SUFFIX,truthsocial.com,
+DOMAIN-SUFFIX,aistudio.google.com,
+DOMAIN-SUFFIX,anthropic.com,,
 DOMAIN-SUFFIX,ai.google.dev,
 DOMAIN-SUFFIX,aistudio.google.com,
 DOMAIN-SUFFIX,gemini.google.com
