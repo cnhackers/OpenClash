@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,auth.openai.com
 
 
 # 内容：OpenAi Bard anthropic
