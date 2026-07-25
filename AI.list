@@ -13,7 +13,10 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,auth.openai.com
-DOMAIN-SUFFIX,accounts.google.com​
+DOMAIN-SUFFIX,accounts.google.com
+
+
+DOMAIN-SUFFIX,www.tiktok.com​
 
 
 # 内容：OpenAi Bard anthropic
